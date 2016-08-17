@@ -19,7 +19,7 @@ Have a resource to add? [Go ahead!](https://github.com/uc-dipp/uc-dipp.github.io
 - [Meta Fun](https://www.codeschool.com/courses/try-git): Learn GitHub!
 - [Learn at your own pace](https://www.coursera.org/courses?orderby=upcoming&stats=upcoming&cats=cs-ai,cs-programming,cs-systems,cs-theory,economics,socsci,stats): Coursera CS, statistics, econ, and social science classes
 - [Learn at your own pace](https://www.edx.org/course-list/allschools/allsubjects/allcourses):  All EdX classes
-
+- [Learn GIS Programming](http://gisgeography.com/free-gis-programming-tutorials/): Learn GIS Programming
 ---
 <a name="software"></a>
 ## Software
